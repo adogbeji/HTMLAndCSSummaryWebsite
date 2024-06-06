@@ -1,0 +1,32 @@
+.top-section {
+    padding: 60px 0;
+    background-color: grey;  
+}
+
+.text-photo-box {
+    /* background-color: #0000FF;   */
+}
+
+.text-box-1 {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #FF0000;
+}
+
+.text-1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 56px;
+    color: #3131e7;
+}
+
+.photo-box {
+    width: 350px;
+    margin: 0 auto;
+}
+
+.photo {
+    width: 100%;
+    height: auto;
+    display: block;
+}
