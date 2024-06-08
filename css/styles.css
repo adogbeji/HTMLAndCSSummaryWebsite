@@ -38,3 +38,43 @@
     border-radius: 15px;
     background-color: #6513F1;
 }
+
+.page-content-1 {
+    background-color: grey;
+}
+
+.text-box-2 {
+    background-color: #FF0000;
+}
+
+.text-2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 34px;
+    font-weight: 900;
+    color: #FFFFFF;
+}
+
+.text-3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.list {
+    list-style-type: none;
+    padding-left: 0;
+    /* background-color: #FFFF00; */
+}
+
+.list__item {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.list__item--highlight {
+    color: #e3e31c;
+    border-left: 6px solid #FFFF00;
+}
