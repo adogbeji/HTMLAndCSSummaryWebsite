@@ -63,7 +63,8 @@
 
 .list {
     list-style-type: none;
-    padding-left: 0;
+    /* padding-left: 0; */
+    padding-left: 12px;
     /* background-color: #FFFF00; */
 }
 
@@ -72,9 +73,19 @@
     font-size: 20px;
     font-weight: 400;
     color: #FFFFFF;
+    margin: 16px 0;
 }
 
 .list__item--highlight {
     color: #e3e31c;
+    margin: 16px 0;
     border-left: 6px solid #FFFF00;
+}
+
+.docs-link {
+    display: inline-block;
+    text-decoration: none;
+    padding: 6px;
+    border-radius: 8px;
+    background-color: #FFFF00;
 }
